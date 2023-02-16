@@ -1,2 +1,3 @@
 # CRCS-learning-for-Chinese-college-students
-
+The project is mainly for Chinese computer students' growth path records and team project code open source, internship experience records, scientific research experience sharing, various activity experience sharing, project initial maintenance and community contribution The founding members are 21-level Wuhan University Huang Ke, 21-level Huazhong Ning Yuwei from University of Science and Technology, Wang Yiyuan from Beijing University of Technology, 21st grade, Chen Yanyu from Beijing Institute of Technology, 21st grade, and Jiang Weijian from Central South University, 21st grade. New members are welcome to contact the project manager and join the maintenance and contribution of the community. Manager email: 2101581897@qq.com
+该项目主要为中国计算机专业学生成长路线记录和团队项目代码开源，实习经历记录，科研经验分享，各种活动经历分享，项目初始维护和社区贡献创始成员为21级武汉大学黄珂，21级华中科技大学宁毓伟，21级北京工业大学王逸远，21级北京理工大学陈彦宇，21级中南大学蒋炜建，欢迎新成员联系项目管理者并加入社区的维护和贡献。管理者邮箱：2101581897@qq.com
