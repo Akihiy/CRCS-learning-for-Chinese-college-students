@@ -1,0 +1,7 @@
+file,size,link
+mchar_train.zip,345.91MB,http://tianchi-competition.oss-cn-hangzhou.aliyuncs.com/531795/mchar_train.zip
+mchar_train.json,3.16MB,http://tianchi-competition.oss-cn-hangzhou.aliyuncs.com/531795/mchar_train.json
+mchar_val.zip,200.16MB,http://tianchi-competition.oss-cn-hangzhou.aliyuncs.com/531795/mchar_val.zip
+mchar_val.json,1.03MB,http://tianchi-competition.oss-cn-hangzhou.aliyuncs.com/531795/mchar_val.json
+mchar_test_a.zip,370.6MB,http://tianchi-competition.oss-cn-hangzhou.aliyuncs.com/531795/mchar_test_a.zip
+mchar_sample_submit_A.csv,507.83KB,http://tianchi-competition.oss-cn-hangzhou.aliyuncs.com/531795/mchar_sample_submit_A.csv
